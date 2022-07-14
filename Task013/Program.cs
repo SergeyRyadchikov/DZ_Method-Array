@@ -5,4 +5,11 @@ int lenght = number.Length;
 char[] num = new char[lenght];
 num = number.ToCharArray(0, lenght);
 Console.WriteLine(num);
-Console.Write("Вторая цифра - " + num[1]);
+if (lenght < 3)
+{
+    Console.Write("Третьей цифры нет");
+}
+else
+{
+    Console.Write("Третья цифра - " + num[2]);
+}
