@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\bin\Debug\net6.0\Task015.exe
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\bin\Debug\net6.0\Task015.deps.json
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\bin\Debug\net6.0\Task015.runtimeconfig.json
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\bin\Debug\net6.0\Task015.dll
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\bin\Debug\net6.0\Task015.pdb
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\obj\Debug\net6.0\Task015.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\obj\Debug\net6.0\Task015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\obj\Debug\net6.0\Task015.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\obj\Debug\net6.0\Task015.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\obj\Debug\net6.0\Task015.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\obj\Debug\net6.0\Task015.dll
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\obj\Debug\net6.0\refint\Task015.dll
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\obj\Debug\net6.0\Task015.pdb
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\obj\Debug\net6.0\Task015.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\GB\Факультет Digital-master\Знакомство с языками программирования (Семинары)\Семинар 2. Функции и массивы\DZ_2\Task015\obj\Debug\net6.0\ref\Task015.dll
